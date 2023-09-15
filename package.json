@@ -1,0 +1,21 @@
+{
+  "name": "kjs-sophisticated-dark-theme",
+  "displayName": "Sophisticated Dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sophisticated Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sophisticated-dark-color-theme.json"
+      }
+    ]
+  }
+}
