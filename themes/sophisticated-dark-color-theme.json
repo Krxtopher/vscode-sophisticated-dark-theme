@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#ffffff38"
+        "foreground": "#ffffff4a"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffffff38"
+        "foreground": "#ffffff4a"
       }
     },
     {
@@ -1914,9 +1914,9 @@
     "tab.hoverBackground": "#2a395e26",
     "tab.hoverForeground": "#ffffff",
     "tab.hoverBorder": "#ffffff00",
-    "scrollbarSlider.background": "#222a4f",
-    "scrollbarSlider.hoverBackground": "#171924",
-    "scrollbarSlider.activeBackground": "#242d54",
+    "scrollbarSlider.background": "#c2d8ff31",
+    "scrollbarSlider.hoverBackground": "#c2d8ff3c",
+    "scrollbarSlider.activeBackground": "#c2d8ff31",
     "progressBar.background": "#0e70c0",
     "widget.shadow": "#181b28",
     "editorWidget.foreground": "#c0c0c0",
